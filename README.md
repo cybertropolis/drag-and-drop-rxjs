@@ -1,2 +1,3 @@
-# drag-and-drop-rxjs
-A simple drag and drop example with rxjs.
+# RxJS with drag and drop
+
+A simple drag and drop example with RxJS.
