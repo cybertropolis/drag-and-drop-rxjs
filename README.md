@@ -2,7 +2,8 @@
 
 A simple drag and drop example with RxJS.
 
-# Examples
+## Examples
 
-https://cybertropolis.github.io/rxjs-drag-and-drop/drag-and-drop-01.html
-https://cybertropolis.github.io/rxjs-drag-and-drop/drag-and-drop-02.html
+[Drag and Drop 01](https://cybertropolis.github.io/rxjs-drag-and-drop/drag-and-drop-01.html)
+
+[Drag and Drop 02](https://cybertropolis.github.io/rxjs-drag-and-drop/drag-and-drop-02.html)
