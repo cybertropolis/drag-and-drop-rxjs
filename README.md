@@ -2,4 +2,7 @@
 
 A simple drag and drop example with RxJS.
 
-Open .html files onto your browser to run.
+# Examples
+
+https://cybertropolis.github.io/rxjs-drag-and-drop/drag-and-drop-01.html
+https://cybertropolis.github.io/rxjs-drag-and-drop/drag-and-drop-02.html
